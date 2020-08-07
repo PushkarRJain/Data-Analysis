@@ -1,2 +1,2 @@
 # Data-Analysis-Assignment-1
-Data Analysis of a dataset of students 
+Data Analysis and visualization of a dataset of students 
