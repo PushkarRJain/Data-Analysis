@@ -1,2 +1,3 @@
-# Data-Analysis-Assignment-1
-Data Analysis and visualization of a dataset of students 
+# Data-Analysis
+Doing the groundwork for the DataWiz 2020 Competition
+
